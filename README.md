@@ -1,4 +1,5 @@
 # zce-pages
+<<<<<<< HEAD
 
 [![NPM Downloads][downloads-image]][downloads-url]
 [![NPM Version][version-image]][version-url]
@@ -76,3 +77,6 @@ const result = zcePages('zce')
 [devdependency-url]: https://david-dm.org/hanting/zce-pages?type=dev
 [style-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
 [style-url]: https://standardjs.com
+=======
+Learn to use gulp
+>>>>>>> 614c0c7a3829d71e39e973a6d9bedda8f33b190b
